@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="786c1fa8-166e-4ec7-b35d-a4d79e75f5dc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1dsIw7aApbKs1Ny6luqAkofWKqs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../android/sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="786c1fa8-166e-4ec7-b35d-a4d79e75f5dc" name="Default Changelist" comment="" />
+      <created>1593207609463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593207609463</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="230" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1593207780143">
+      <screen x="0" y="23" width="1680" height="984" />
+    </state>
+    <state x="560" y="230" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1680.984@0.23.1680.984" timestamp="1593207780143" />
+    <state x="542" y="327" key="com.intellij.ide.util.TipDialog" timestamp="1593207824989">
+      <screen x="0" y="23" width="1680" height="984" />
+    </state>
+    <state x="542" y="327" key="com.intellij.ide.util.TipDialog/0.23.1680.984@0.23.1680.984" timestamp="1593207824989" />
+    <state width="677" height="607" key="javadoc.popup.new" timestamp="1593207770839">
+      <screen x="0" y="23" width="1680" height="984" />
+    </state>
+    <state width="677" height="607" key="javadoc.popup.new/0.23.1680.984@0.23.1680.984" timestamp="1593207770839" />
+  </component>
+</project>
